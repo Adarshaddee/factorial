@@ -14,7 +14,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/adarshaddee/factorial
+git clone https://github.com/adarshaddee/factorial.git
 
 cd factorial
 
