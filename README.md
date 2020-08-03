@@ -19,3 +19,5 @@ git clone https://github.com/adarshaddee/factorial
 cd factorial
 
 python factorial.py
+
+python factorial_v2.py
